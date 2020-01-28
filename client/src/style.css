@@ -1,0 +1,39 @@
+.center {
+    text-align: center;
+}
+
+.fontstyle {
+    font-size: 12px;
+}
+
+.ml15 {
+    margin-left: 15px;
+    cursor: pointer;
+}
+
+.header {
+    margin-left: 20px;
+}
+
+b {
+    cursor: pointer;
+}
+
+.span {
+    cursor: pointer;
+}
+
+.m15 {
+    margin: 15px;
+}
+
+.select {
+    width: 150px;
+    margin-top: 15px;
+}
+
+.select2 {
+    width: 150px;
+    margin-top: 15px;
+    margin-top: 200px;
+}
